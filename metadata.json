@@ -1,0 +1,6 @@
+{
+  "name": "Otimizador de Vagas Corporativas",
+  "description": "Aplicativo otimizado para profissionais corporativos encontrarem e se candidatarem a múltiplas vagas com análise de currículo PDF/Doc e inteligência para ATS.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
